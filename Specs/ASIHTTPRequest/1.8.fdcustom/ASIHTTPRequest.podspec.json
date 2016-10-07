@@ -9,7 +9,7 @@
   "license": "New BSD License",
   "source": {
     "git": "https://github.com/thatjuan/asi-http-request.git",
-    "commit": "ae004ee5e35ba84710338133d0d3ca23f8abf590"
+    "commit": "ab601c8"
   },
   "description": "\n    ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that\n    makes some of the more tedious aspects of communicating with web servers\n    easier. It is written in Objective-C and works in both Mac OS X and iPhone\n    applications.\n\n    It is suitable performing basic HTTP requests and interacting with\n    REST-based services (GET / POST / PUT / DELETE). The included\n    ASIFormDataRequest subclass makes it easy to submit POST data and files\n    using multipart/form-data.\n  ",
   "requires_arc": false,
