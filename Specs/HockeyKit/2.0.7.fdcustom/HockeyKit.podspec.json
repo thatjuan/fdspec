@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/thatjuan/HockeyKit.git",
-    "tag": "2.0.7"
+    "tag": "2.0.7.fdcustom"
   },
   "description": "Hockey is a iOS Ad-Hoc updater framework. It can be used for all apps that target the Apple AppStore and improves the beta testing process dramatically. NOTES: You will need to add a dependency on JSONKit or SBJson yourself. If you want the framework to try again when a network is available, add a dependency on Reachability and send a notification with the name `NetworkDidBecomeReachable` yourself when the network becomse reachable.",
   "source_files": [
